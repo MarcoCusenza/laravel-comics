@@ -6,34 +6,34 @@
     <nav>
       <ul>
         <li>
-          <a href="#">characters</a>
+          <a href="/characters">characters</a>
         </li>
         <li>
-          <a href="#">comics</a>
+          <a href="/comics">comics</a>
         </li>
         <li>
-          <a href="#">movies</a>
+          <a href="/movies">movies</a>
         </li>
         <li>
-          <a href="#">tv</a>
+          <a href="/tv">tv</a>
         </li>
         <li>
-          <a href="#">games</a>
+          <a href="/games">games</a>
         </li>
         <li>
-          <a href="#">collectibles</a>
+          <a href="/collectibles">collectibles</a>
         </li>
         <li>
-          <a href="#">videos</a>
+          <a href="/videos">videos</a>
         </li>
         <li>
-          <a href="#">fans</a>
+          <a href="/fans">fans</a>
         </li>
         <li>
-          <a href="#">news</a>
+          <a href="/news">news</a>
         </li>
         <li>
-          <a href="#">shop</a>
+          <a href="/shop">shop</a>
         </li>
       </ul>
     </nav>
