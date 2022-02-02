@@ -33,4 +33,115 @@
             </a>
         </div>
     </div>
+
+    <div class="footer-mid">
+        <div class="container">
+            <img id="dc-logo-bg" src="/img/dc-logo-bg.png" alt="DC Logo Background" />
+            <div class="links">
+                <div class="col col-left">
+                    <div class="section foot-dc-comics">
+                        <h4>dc comics</h4>
+                        <ul>
+                            <li>
+                                <a href="#">Characters</a>
+                            </li>
+                            <li>
+                                <a href="#">Characters</a>
+                            </li>
+                            <li>
+                                <a href="#">Characters</a>
+                            </li>
+                            <li>
+                                <a href="#">Characters</a>
+                            </li>
+                            <li>
+                                <a href="#">Characters</a>
+                            </li>
+                            <li>
+                                <a href="#">Characters</a>
+                            </li>
+                            <li>
+                                <a href="#">Characters</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="section foot-shop">
+                        <h4>shop</h4>
+                        <ul>
+                            <li>
+                                <a href="#">Shop DC</a>
+                            </li>
+                            <li>
+                                <a href="#">Shop DC</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col col-mid">
+                    <div class="section foot-dc">
+                        <h4>dc</h4>
+                        <ul>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                            <li>
+                                <a href="#">Terms Of Use</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col col-right">
+                    <div class="section foot-sites">
+                        <h4>sites</h4>
+                        <ul>
+                            <li>
+                                <a href="#">MAD Magazine</a>
+                            </li>
+                            <li>
+                                <a href="#">MAD Magazine</a>
+                            </li>
+                            <li>
+                                <a href="#">MAD Magazine</a>
+                            </li>
+                            <li>
+                                <a href="#">MAD Magazine</a>
+                            </li>
+                            <li>
+                                <a href="#">MAD Magazine</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>

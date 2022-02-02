@@ -173,6 +173,56 @@ header .container nav li a:hover {
   margin-left: 10px;
 }
 
+.footer-mid {
+  background-image: url("/img/footer-bg.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.footer-mid .container {
+  position: relative;
+}
+
+.footer-mid #dc-logo-bg {
+  position: absolute;
+  right: 0px;
+  transform: translate(0, -20%);
+}
+
+.footer-mid .links {
+  display: flex;
+  padding: 50px 0;
+}
+
+.footer-mid .links .col {
+  width: 170px;
+}
+
+.footer-mid .links .col .section {
+  margin: 10px 0;
+}
+
+.footer-mid .links .col .section h4 {
+  color: whitesmoke;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.footer-mid .links .col .section ul {
+  list-style: none;
+  margin: 10px 0;
+}
+
+.footer-mid .links .col .section ul li a {
+  font-size: 14px;
+  text-decoration: none;
+  color: #7a7a7a;
+}
+
+.footer-mid .links .col .section ul li a:hover {
+  color: #bebebe;
+}
+
 .jumbo {
   height: 360px;
   width: 100%;
