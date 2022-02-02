@@ -96,3 +96,52 @@
     }
   }
 }
+
+.footer-bot {
+  background-color: #2f2f2f;
+
+  .container {
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .signup {
+      text-transform: uppercase;
+      text-decoration: none;
+      font-weight: bold;
+      border: 2px solid #0f82f7;
+      padding: 15px 20px;
+      color: whitesmoke;
+      transition: 0.2s ease-out;
+
+      &:hover {
+        background-color: #0f82f7;
+      }
+    }
+
+    .socials {
+      display: flex;
+      align-items: center;
+
+      .follow-us {
+        text-transform: uppercase;
+        color: #0f82f7;
+        font-size: 20px;
+        font-weight: bold;
+        margin-right: 20px;
+      }
+
+      .social {
+        margin: 0 10px;
+        img {
+          transition: 0.2s ease-out;
+
+          &:hover {
+            filter: brightness(1.4);
+          }
+        }
+      }
+    }
+  }
+}

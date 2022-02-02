@@ -144,4 +144,28 @@
             </div>
         </div>
     </div>
+
+    <div class="footer-bot">
+        <div class="container">
+            <a href="#" class="signup">sign-up now!</a>
+            <div class="socials">
+                <div class="follow-us">follow us</div>
+                <a href="#" class="social">
+                    <img src="/img/footer-facebook.png" alt="facebook" />
+                </a>
+                <a href="#" class="social">
+                    <img src="/img/footer-twitter.png" alt="twitter" />
+                </a>
+                <a href="#" class="social">
+                    <img src="/img/footer-youtube.png" alt="youtube" />
+                </a>
+                <a href="#" class="social">
+                    <img src="/img/footer-pinterest.png" alt="pinterest" />
+                </a>
+                <a href="#" class="social">
+                    <img src="/img/footer-periscope.png" alt="periscope" />
+                </a>
+            </div>
+        </div>
+    </div>
 </footer>

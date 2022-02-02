@@ -223,6 +223,56 @@ header .container nav li a:hover {
   color: #bebebe;
 }
 
+.footer-bot {
+  background-color: #2f2f2f;
+}
+
+.footer-bot .container {
+  height: 110px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-bot .container .signup {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  border: 2px solid #0f82f7;
+  padding: 15px 20px;
+  color: whitesmoke;
+  transition: 0.2s ease-out;
+}
+
+.footer-bot .container .signup:hover {
+  background-color: #0f82f7;
+}
+
+.footer-bot .container .socials {
+  display: flex;
+  align-items: center;
+}
+
+.footer-bot .container .socials .follow-us {
+  text-transform: uppercase;
+  color: #0f82f7;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.footer-bot .container .socials .social {
+  margin: 0 10px;
+}
+
+.footer-bot .container .socials .social img {
+  transition: 0.2s ease-out;
+}
+
+.footer-bot .container .socials .social img:hover {
+  filter: brightness(1.4);
+}
+
 .jumbo {
   height: 360px;
   width: 100%;
