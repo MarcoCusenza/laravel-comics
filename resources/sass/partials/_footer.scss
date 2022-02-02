@@ -1,0 +1,46 @@
+.footer-top {
+  background-color: #0f82f7;
+  color: whitesmoke;
+
+  .container {
+    height: 160px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: whitesmoke;
+  }
+
+  .card {
+    height: 70%;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 50px 25px;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #0d6ac7;
+      transition: 0.4s;
+    }
+
+    .icon {
+      img {
+        height: 55px;
+      }
+    }
+
+    &:last-of-type .icon img {
+      height: 40px;
+    }
+
+    .section-name {
+      font-size: 15px;
+      text-transform: uppercase;
+      margin-left: 10px;
+    }
+  }
+}
