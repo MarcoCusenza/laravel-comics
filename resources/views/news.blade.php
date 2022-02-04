@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('pageTitle')
-    Home
+    News
 @endsection
 
 @section('pageContent')

@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('pageTitle')
-    Home
+    Movies
 @endsection
 
 @section('pageContent')
